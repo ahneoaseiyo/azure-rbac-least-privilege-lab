@@ -44,11 +44,19 @@ Read the [IAM-001 assessment report](reports/IAM-001.md).
 
 ## Evidence
 
-Three role-definition and assignment screenshots were captured. Publication-safe copies are awaiting upload:
+Three screenshots document the role assignment and definitions:
 
-- `evidence/IAM-001-Role-Assignment.png` — Reader assigned at resource-group scope
-- `evidence/IAM-002-Reader-Permissions.png` — Reader JSON definition
-- `evidence/IAM-003-Contributor-Permissions.png` — Contributor JSON definition
+**IAM-001 — Managed identity Reader assignment (resource-group scope)**
+
+![Reader assignment at resource-group scope](evidence/IAM-001-Role-Assignment.png)
+
+**IAM-002 — Reader role definition**
+
+![Reader role permissions JSON](evidence/IAM-002-Reader-Permissions.png)
+
+**IAM-003 — Contributor role definition (comparison only; not assigned)**
+
+![Contributor role permissions JSON](evidence/IAM-003-Contributor-Permissions.png)
 
 See [evidence notes](evidence/README.md) and the [RBAC scope diagram](diagrams/rbac-scope.md).
 

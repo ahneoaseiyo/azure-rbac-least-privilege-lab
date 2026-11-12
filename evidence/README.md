@@ -1,6 +1,6 @@
 # IAM evidence
 
-The three screenshots below were captured in the Azure Portal and are awaiting upload to this folder. Public versions should have personal and subscription identifiers removed.
+The three screenshots have been uploaded to this folder. They were reviewed and prepared for public publication to minimise exposure of personal and subscription identifiers.
 
 | File | Verified observation |
 |---|---|
